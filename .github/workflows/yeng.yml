@@ -16,4 +16,4 @@ jobs:
           script: |
             cd /var/www/html/static
             sudo git pull origin master
-            ech0 "Done"
+            echo "Done"
